@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe1b370b-c839-4f93-90ca-31e209fe9838" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimationChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/LevelItemCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/HeroStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PositionClamper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/PositionValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/Heart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIValue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AutoSave/Editor/AutoSaveExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Linker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LoseCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shoot/FireBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/IPickable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Borders.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/EntitySprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shoot/BulletCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shoot/BulletDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionRecognizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/LevelItemCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/EntityVelocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shoot/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AutoSave/Editor/AutoSaveExtension.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerHero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/HeroVelocity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/LevelBorder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Borders.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PositionValidator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionRecognizer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Linker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/IPickable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Heart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoseCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shoot/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/Entity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/EntitySprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PositionClamper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/EntityVelocity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/HeroStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/PositionValidator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/LevelItemCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/LevelItemCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shoot/BulletDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shoot/BulletCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shoot/FireBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cBwK11qnPszGXth5O03Wmu7Uzz" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe1b370b-c839-4f93-90ca-31e209fe9838" name="Default Changelist" comment="" />
+      <created>1590015228697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590015228697</updated>
+      <workItem from="1590015237867" duration="568000" />
+      <workItem from="1590057568707" duration="14276000" />
+      <workItem from="1590091503079" duration="5905000" />
+      <workItem from="1590174574890" duration="6899000" />
+      <workItem from="1590228351363" duration="13658000" />
+      <workItem from="1590268604703" duration="6746000" />
+      <workItem from="1590326891659" duration="2297000" />
+      <workItem from="1590330911856" duration="152000" />
+      <workItem from="1590662881447" duration="1454000" />
+      <workItem from="1590665558608" duration="4318000" />
+      <workItem from="1590855981840" duration="95000" />
+      <workItem from="1590922866622" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="SettingsEditor" />
+    <state x="264" y="0" key="SettingsEditor/1920.1080" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
